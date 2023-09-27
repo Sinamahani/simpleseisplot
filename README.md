@@ -40,10 +40,10 @@ Replace `<file_name>` with the name of your seismic data file located in the "da
 Here's an example of how to use SimpleSeisPlot:
 
 ```
-python3 ssp.py example.seg2
+python3 ssp.py example.seg2 <bp2,5>
 ```
 
-This command will generate plots of the seismic waveforms from the `example.seg2` file located in the "data" folder.
+This command will generate plots of the seismic waveforms from the `example.seg2` file located in the "data" folder. In addition, in case you want to filetr your data first, it filters the data by a bandpass (bp) filter between 2 and 5. Other types are 'lp' and 'hp' (for example 'lp5' or 'hp3').
 
 ## Contributing
 
