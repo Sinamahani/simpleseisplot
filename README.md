@@ -27,7 +27,7 @@ git clone https://github.com/your-username/SimpleSeisPlot.git
 cd SimpleSeisPlot
 ```
 
-4. Run the `main.py` script with the name of your data file as an argument.
+4. Run the `ssp.py` script with the name of your data file as an argument.
 
 ```
 python3 main.py <file_name>
@@ -40,7 +40,7 @@ Replace `<file_name>` with the name of your seismic data file located in the "da
 Here's an example of how to use SimpleSeisPlot:
 
 ```
-python3 main.py example.seg2
+python3 ssp.py example.seg2
 ```
 
 This command will generate plots of the seismic waveforms from the `example.seg2` file located in the "data" folder.
