@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/697018581.svg)](https://zenodo.org/doi/10.5281/zenodo.10091921)<br>
+
 # SimpleSeisPlot
 ![logo](https://github.com/Sinamahani/seis_simple_plot/blob/main/logo.png)
 
